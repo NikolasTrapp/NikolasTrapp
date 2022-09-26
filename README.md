@@ -12,7 +12,7 @@ Me chamo Nikolas Trapp, tenho 17 anos e atualmente estou estudando programação
   
   ↪ Eu sei falar alemão e inglês;
   
-  ↪ Estudei os frameworks: Spring Boot, Python Flask, Angular, Bootstrap5
+  ↪ Estudei os frameworks: Spring Boot, Python Flask, Angular, Bootstrap5 e JQuery
   
   ↪ Redes sociais: <a href="linkedin.com/in/nikolas-trapp-768689238/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/nikolas_trapp" target="_blank">Twitter</a>, <a href="https://www.instagram.com/nikolas_trapp_/" target="_blank">Instagram</a>
 
