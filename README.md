@@ -6,7 +6,7 @@ Me chamo Nikolas Trapp, tenho 17 anos e atualmente estou estudando programação
 
   ↪ Moro em Blumenau - Santa Catarina; 
   
-  ↪ Estou estudando no IFC Campus Blumenau curso de informática;
+  ↪ Aluno do curso +Devs2Blu;
   
   ↪ No meu tempo livre gosto de estudar programação, atualmente estou pesquisando sobre Angular;
   
