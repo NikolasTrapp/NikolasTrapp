@@ -21,4 +21,4 @@ Me chamo Nikolas Trapp, tenho 18 anos e atualmente estou estudando programação
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasTrapp&hide=javascript,html)](https://github.com/NikolasTrapp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasTrapp&hide=html,css)](https://github.com/NikolasTrapp/github-readme-stats)
