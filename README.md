@@ -2,7 +2,7 @@
 
 Seja bem vindo ao meu repositório!
 
-Me chamo Nikolas Trapp, tenho 18 anos e atualmente estou estudando programação!
+Me chamo Nikolas Trapp, tenho 20 anos e atualmente estou estudando programação!
 
   ↪ Moro em Blumenau - Santa Catarina; 
   
