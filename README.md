@@ -49,6 +49,7 @@ Minhas habilidades abrangem o desenvolvimento Full Stack, infraestrutura e obser
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/ECS-FF9900.svg?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMR-FF9900.svg?logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lambda-FF9900.svg?logo=awslambda&logoColor=white"/>
   <img src="https://img.shields.io/badge/S3-569A31.svg?logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQS-FF4F00.svg?logo=amazonaws&logoColor=white"/>
