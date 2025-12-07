@@ -121,10 +121,3 @@ Minhas habilidades abrangem o desenvolvimento Full Stack, infraestrutura e obser
 
 ## 📫 Contato
 - **Linked:** https://www.linkedin.com/in/nikolastrapp/
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikolasTrapp&show_icons=true&theme=buefy&hide_rank=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasTrapp&layout=compact&theme=buefy" alt="Linguagens Mais Usadas" />
-</p>
